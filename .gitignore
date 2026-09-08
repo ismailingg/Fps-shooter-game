@@ -1,0 +1,39 @@
+# .gitignore for a simple web/game project
+
+# Node
+node_modules/
+
+# Build outputs
+dist/
+build/
+out/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Editor directories
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Coverage, caches, temp
+coverage/
+.cache/
+*.tmp
+
+# Misc
+*.bak
+*.swp
