@@ -3,8 +3,8 @@
   "configurations": [
     {
       "name": "fps",
-      "runtimeExecutable": "python",
-      "runtimeArgs": ["-m", "http.server", "5178"],
+      "runtimeExecutable": "node",
+      "runtimeArgs": ["server.js"],
       "port": 5178
     }
   ]

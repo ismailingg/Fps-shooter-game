@@ -1,0 +1,12 @@
+{
+  "name": "neon-breach",
+  "version": "1.0.0",
+  "private": true,
+  "description": "NEON BREACH - co-op wave FPS",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
